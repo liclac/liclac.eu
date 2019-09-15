@@ -1,5 +1,37 @@
-body {
-    background-color: #777;
+@import "bootstrap-reboot";
+@import "bootstrap-grid";
 
-    code { color: orange; }
+$color4: #ebfffb;
+$color3: #ff5858;
+$color2: #61234e;
+$color1: #032535;
+
+body {
+    background-color: $color1;
+    color: $color4;
+}
+
+#header header {
+    margin-bottom: 10pt;
+    p { margin-bottom: 0; }
+}
+
+.meme {
+    white-space: nowrap;
+}
+
+.posts {
+    a {
+        display: block;
+        padding-left: 10pt;
+        color: $color3;
+        border-left: 2px solid transparent;
+
+        &:hover {
+            border-color: $color3;
+            text-decoration: none;
+        }
+    }
+    article {
+    }
 }

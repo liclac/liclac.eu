@@ -1,1 +1,12 @@
-{{ define "main" }}{{ end }}
+{{ define "main" }}
+    {{ range .Pages }}
+    <div class="posts">
+        <a href="{{.Permalink}}">
+            <article>
+                <h2>{{.Title}}</h2>
+                <footer>{{.Date.Format "2006-01-02"}}</footer>
+            </article>
+        </a>
+    </div>
+    {{ end }}
+{{ end }}
