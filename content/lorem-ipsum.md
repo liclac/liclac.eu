@@ -1,7 +1,6 @@
 ---
 title: "Lorem Ipsum"
 date: 2019-09-14T02:41:23+01:00
-draft: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel dui tempor, pellentesque est quis, auctor sem. Nunc sed turpis vehicula, bibendum leo quis, ullamcorper lectus. Nam pretium magna ut elit egestas congue. Quisque volutpat ornare leo, eu faucibus augue ultrices non. Duis gravida nibh nec orci scelerisque auctor. Mauris id nisl volutpat, lacinia felis vitae, dictum justo. Donec hendrerit neque nec commodo pharetra.
