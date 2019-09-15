@@ -26,12 +26,14 @@ body {
         padding-left: 10pt;
         color: $color3;
         border-left: 2px solid transparent;
+        outline: none;
 
         &:hover {
             border-color: $color3;
             text-decoration: none;
         }
     }
-    article {
+    footer {
+        color: $color3;
     }
 }
