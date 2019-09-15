@@ -1,7 +1,6 @@
 ---
 title: "The Entire Script to the Bee Movie"
 date: 2019-09-15T13:29:37+01:00
-draft: true
 ---
 
 According to all known laws of aviation,  
