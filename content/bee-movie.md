@@ -624,7 +624,7 @@ more honey for us.
 
 Cool.
 
-l'm picking up a lot of bright yellow.  
+I'm picking up a lot of bright yellow.  
 Could be daisies. Don't we need those?
 
 Copy that visual.
@@ -724,7 +724,7 @@ Mayday! Mayday! Bee going down!
 Ken, could you close  
 the window please?
 
-Check out my new rÃ©sumÃ©.  
+Check out my new résumé.  
 I made it into a fold-out brochure.
 
 You see? Folds out.
@@ -798,7 +798,7 @@ There you go, little guy.
 I'm not scared of him.  
 It's an allergic thing.
 
-Put that on your rÃ©sumÃ© brochure.
+Put that on your résumé brochure.
 
 My whole face could puff up.
 
@@ -1208,15 +1208,15 @@ Go ahead. I'll catch up.
 
 Don't be too long.
 
-l just can't believe the loveliness  
+I just can't believe the loveliness  
 of loving you
 
-l just can't believe it's true
+I just can't believe it's true
 
-l just can't believe the wonder  
+I just can't believe the wonder  
 of this feeling, too
 
-l just can't believe it's true
+I just can't believe it's true
 
 Watch this!
 
@@ -1456,7 +1456,7 @@ Open your eyes!
 Stick your head out the window!
 
 From NPR News in Washington,  
-l'm Carl Kasell.
+I'm Carl Kasell.
 
 But don't kill no more bugs!
 
@@ -2011,7 +2011,7 @@ for a guest spot on ER in 2005.
 
 Thank you. Thank you.
 
-I see from your rÃ©sumÃ©  
+I see from your résumé  
 that you're devilishly handsome
 
 with a churning inner turmoil  
@@ -2083,7 +2083,7 @@ The ball's a little grabby.
 
 That's where I usually sit. Right there.
 
-Ken, Barry was looking at your rÃ©sumÃ©,  
+Ken, Barry was looking at your résumé,  
 and he agreed with me
 
 that eating with chopsticks  
@@ -2781,7 +2781,7 @@ floats and cotton candy.
 
 Security will be tight.
 
-l have an idea.
+I have an idea.
 
 Vanessa Bloome, FTD.
 
@@ -3013,7 +3013,7 @@ it makes a big difference.
 More than we realized.  
 To us, to everyone.
 
-That's why l want to get bees  
+That's why I want to get bees  
 back to working together.
 
 That's the bee way!
@@ -3047,7 +3047,7 @@ Move it out!
 
 Move out!
 
-Our only chance is if l do what I'd do,
+Our only chance is if I do what I'd do,
 
 you copy me  
 with the wings of the plane!
@@ -3240,7 +3240,7 @@ Here comes the sun
 
 Here comes the sun
 
-And l say, it's all right
+And I say, it's all right
 
 Little darling
 
@@ -3252,7 +3252,7 @@ lt feels like years since it's been here
 Here comes the sun
 
 Here comes the sun  
-And l say, it's all right
+And I say, it's all right
 
 Little darling
 
@@ -3266,7 +3266,7 @@ Here comes the sun
 
 Here comes the sun
 
-And l say, it's all right
+And I say, it's all right
 
 Mom! The bees are back!
 
@@ -3279,7 +3279,7 @@ I got a feeling
 we'll be working late tonight!
 
 Little darling  
-l feel the ice is slowly melting
+I feel the ice is slowly melting
 
 Here's your change.  
 Have a great afternoon!
@@ -3357,7 +3357,7 @@ Get smart and start thinking bee!
 Gee!
 
 -Flying here and buzzing there  
--l'm loving the views
+-I'm loving the views
 
 Listen to me, cousin  
 Every buzzer must choose to be a bee
@@ -3380,7 +3380,7 @@ Ain't you been on the tour?
 -To be a bee  
 -Start thinking bee
 
--Can't l wait and see?  
+-Can't I wait and see?  
 -No, Barry, that's not to be
 
 Be a busy little bee  
@@ -3389,14 +3389,13 @@ Not a tizzy little bee
 Hold it. Let's just stop for a second.  
 Hold it.
 
-l'm sorry. l'm sorry, everyone.  
+I'm sorry. I'm sorry, everyone.  
 Can we stop here?
 
-l'm not making a major life decision  
+I'm not making a major life decision  
 during a production number!
 
 All right. Take ten, everybody.  
 Wrap it up, guys.
 
-l had virtually no rehearsal for that.
-
+I had virtually no rehearsal for that.
