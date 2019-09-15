@@ -3,8 +3,10 @@
     <div class="posts">
         <a href="{{.Permalink}}">
             <article>
-                <h2>{{.Title}}</h2>
-                <footer>{{.Date.Format "2006-01-02"}}</footer>
+                <header>
+                    <h1>{{.Title}}</h1>
+                    <p>{{.Date.Format "2006-01-02"}}</p>
+                </header>
             </article>
         </a>
     </div>
