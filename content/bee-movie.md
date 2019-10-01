@@ -14,6 +14,8 @@ The bee, of course, flies anyway.
 Because bees don't care what humans think  
 is impossible.
 
+<!--more-->
+
 Yellow, black. Yellow, black.  
 Yellow, black. Yellow, black.
 
