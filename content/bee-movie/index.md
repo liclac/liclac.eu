@@ -3,6 +3,9 @@ title: "The Entire Script to the Bee Movie"
 date: 2019-09-15T13:29:37+01:00
 type: article
 tags: [ bees ]
+resources:
+- name: thumbnail
+  src: bee-wild-2.jpg
 ---
 
 According to all known laws of aviation,  

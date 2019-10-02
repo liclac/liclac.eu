@@ -25,7 +25,11 @@
     {{- end }}
     <meta property="og:title" content="{{ .Title }}">
     <meta property="og:description" content="{{ .Summary }}">
+    {{- with .Resources.GetMatch "thumbnail" }}
+    <meta property="og:image" content="{{ .Permalink }}">
+    {{- else }}
     <meta property="og:image" content="https://www.gravatar.com/avatar/{{ (.Param "author.email") | md5 }}?s=1024">
+    {{- end }}
     <meta property="og:site_name" content="✨">
 
     <meta name="twitter:card" content="summary">
