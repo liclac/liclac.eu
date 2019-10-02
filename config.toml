@@ -2,3 +2,8 @@ title = "lic lac la lac lilac"
 baseURL = "https://liclac.eu/"
 languageCode = "en-gb"
 theme = "liclac"
+
+[params.author]
+name = "embr"
+email = "hi@liclac.eu"
+twitter = "_liclac"
